@@ -21,6 +21,8 @@ class Main {
 
     //orm
     //sirirat
+    System.out.println("Hello");
+    int sum = 13;
     
     
     
