@@ -17,8 +17,9 @@ class Main {
 	   		sum+=(int) Math.pow(2, (powers-a));
 	   	}
 	   	
-	    }System.out.println(sum);
+	    }System.out.println(sum); 
     
-     
+    // int sum = 10; // this line is a bug
+    // another line of code
   }
 }
