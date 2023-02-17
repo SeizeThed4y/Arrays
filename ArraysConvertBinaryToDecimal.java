@@ -18,6 +18,8 @@ class Main {
 	   	}
 	   	
 	    }System.out.println(sum); 
+
+      System.out.println("Risaaaaaaaaaaaaaaaaaaaaaaaa");
     
     // int sum = 10; // this line is a bug
     // another line of code
