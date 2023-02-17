@@ -20,7 +20,7 @@ class Main {
 
 	    }System.out.print(sum);
     
-System.out.print("Risaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+System.out.print("Risaaaaaaaaa2222222222222aaaaaaaaaaaaaaaaaaaa");
 
     
     // int sum = 10; // this line is a bug
